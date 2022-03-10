@@ -7,7 +7,7 @@ function App() {
         <h2>Zahra Olanrewaju</h2>
         <h4>HomeWork</h4>
         <small>
-          <a href="https://github.com/zahrabola/my-bola-app" target="_blank">
+          <a href="https://github.com/zahrabola/my-bola-app">
             Open-source code
           </a>
           <p>By Zahra Olanrewaju</p>
